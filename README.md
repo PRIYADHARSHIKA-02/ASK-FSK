@@ -130,6 +130,7 @@ plt.show()
 
 ## ASK
 <img width="1190" height="790" alt="ask" src="https://github.com/user-attachments/assets/f5530c0e-4e48-4369-8ac4-56ebb12298c5" />
+
 ## FSK
 <img width="1201" height="1012" alt="fsk" src="https://github.com/user-attachments/assets/dbd1e225-19c7-4ee9-a7a5-07570ec9fc1a" />
 
